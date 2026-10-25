@@ -1,0 +1,7 @@
+services:
+  policy-dashboard:
+    build: .
+    ports: ["8501:8000"]
+    environment:
+      POLICY_DATA_DIR: data/policies
+      POLICY_INDEX_PATH: data/processed/chunks.json

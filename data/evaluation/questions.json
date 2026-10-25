@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How many annual leave days can be carried forward?",
+    "expected_doc_id": "HR-LEAVE-001",
+    "role": "employee",
+    "region": "IN"
+  },
+  {
+    "question": "What should I do if I receive a phishing email?",
+    "expected_doc_id": "IT-SEC-003",
+    "role": "employee",
+    "region": "IN"
+  },
+  {
+    "question": "How soon should I submit travel expenses?",
+    "expected_doc_id": "FIN-TRAVEL-005",
+    "role": "employee",
+    "region": "IN"
+  },
+  {
+    "question": "Who can request privileged system access?",
+    "expected_doc_id": "IT-PRIV-008",
+    "role": "it",
+    "region": "IN"
+  },
+  {
+    "question": "How do I request a laptop?",
+    "expected_doc_id": "IT-ASSET-004",
+    "role": "employee",
+    "region": "IN"
+  },
+  {
+    "question": "What should I do during an evacuation?",
+    "expected_doc_id": "SAFE-WORK-006",
+    "role": "safety",
+    "region": "IN"
+  }
+]

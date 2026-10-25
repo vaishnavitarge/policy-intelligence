@@ -1,0 +1,7 @@
+question,expected_doc_id,role,region
+"How many annual leave days can be carried forward?",HR-LEAVE-001,employee,IN
+"What should I do if I receive a phishing email?",IT-SEC-003,employee,IN
+"How soon should I submit travel expenses?",FIN-TRAVEL-005,employee,IN
+"Who can request privileged system access?",IT-PRIV-008,it,IN
+"How do I request a laptop?",IT-ASSET-004,employee,IN
+"What should I do during an evacuation?",SAFE-WORK-006,safety,IN
